@@ -6,7 +6,7 @@
 
 💞️ I’m looking to collaborate on beginner-friendly open source projects or cool frontend UI work
 
-📫 How to reach me: [email: darasimigrace123@iclod.com, twitter: oluwa_darasiimi]
+📫 How to reach me: [email: darasimigrace123@icloud.com, twitter: oluwa_darasiimi]
 
 😄 Pronouns: she/her
 
